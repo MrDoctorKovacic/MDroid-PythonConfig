@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
      name='MDroidPythonConfig',  
      version='0.1',
-     scripts=['config'] ,
+     scripts=['mdroidconfig'] ,
      author="Quinn Casey",
      author_email="quinn@quinncasey.com",
      description="Reads from MDroid configuration file, used across several Python scripts in the MDroid suite.",

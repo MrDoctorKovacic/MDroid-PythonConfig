@@ -1,5 +1,5 @@
 README.md
-config
+mdroidconfig
 setup.py
 MDroidPythonConfig.egg-info/PKG-INFO
 MDroidPythonConfig.egg-info/SOURCES.txt

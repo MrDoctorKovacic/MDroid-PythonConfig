@@ -3,7 +3,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-     name='MDroid-PythonConfig',  
+     name='MDroidPythonConfig',  
      version='0.1',
      scripts=['config'] ,
      author="Quinn Casey",

@@ -1,0 +1,8 @@
+README.md
+mdroidconfig
+setup.py
+mdroidconfig/__init__.py
+mdroidconfig.egg-info/PKG-INFO
+mdroidconfig.egg-info/SOURCES.txt
+mdroidconfig.egg-info/dependency_links.txt
+mdroidconfig.egg-info/top_level.txt

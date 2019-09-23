@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: mdroidconfig
+Version: 0.1
+Summary: Reads from MDroid configuration file, used across several Python scripts in the MDroid suite.
+Home-page: https://github.com/MrDoctorKovacic/MDroid-PythonConfig
+Author: Quinn Casey
+Author-email: quinn@quinncasey.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

@@ -10,7 +10,7 @@ import logging
 # Parse through a json file containing a 2D array
 # Each of the searchValues requested are required, 
 # we will return all or None.
-def _parseConfigFile(configFile, searchValues: dict) -> dict:
+def _parseConfigFile(configFile, searchValues):
 	returnDict = dict()
 
 	for key in searchValues.keys():
@@ -36,7 +36,7 @@ def _parseConfigFile(configFile, searchValues: dict) -> dict:
 
 # Given filename and dict of values to find,
 # return a dict with the same formatting
-def readConfig(values: dict) -> dict:
+def readConfig(values):
 	# parse program arguments
 	parser = argparse.ArgumentParser(description='Read from GPSd, forward to REST API.')
 	parser.add_argument('--settings-file', action='store', required=True, help='Config file to load API settings.')
